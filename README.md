@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for an opportunity to start my technical career in Data Analysis/Science
-- 🌱 I’m currently learning Visualization Tools, Machine Learning and reinforcing my knowledge of MySQL
+- 🔭 I’m an experienced Data Engineer, with strong analytical and business skills
+- 🌱 I’m currently studying and improving my knowledge on Machine Learning and Cloud Engineering
 - 💬 Ask me about how I went from managerial tech roles to pursuing a career in the Data Universe
 - 📫 How to reach me: leofgonzalez@outlook.com || +55 34 992275541
 - 😄 Pronouns: he/him
